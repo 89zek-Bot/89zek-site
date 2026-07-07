@@ -93,7 +93,7 @@ function animateValue(id,end,duration){
 
 /* Change les chiffres ici */
 
-animateValue("followers",0,1800);
+animateValue("followers",4000,1800);
 
 animateValue("tiktok",1416,2200);
 
